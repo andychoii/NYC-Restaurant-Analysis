@@ -15,6 +15,7 @@ Inspected the dataset checking for IDs, irrelevant data, and narrowing the years
 ## Which Boroughs and Neighborhoods Experience the Most Violations?
 
 <img width="694" height="627" alt="Screenshot 2026-10-30 at 11 43 01 AM" src="https://github.com/user-attachments/assets/9e74585b-9c7c-4b99-b084-08d4a17e3668" />
+
 Total Count of Restaurant Violations in NYC
 - Most health code violations are located in Manhattan, Northern Queens, and Western Brooklyn
 - Manhattan
