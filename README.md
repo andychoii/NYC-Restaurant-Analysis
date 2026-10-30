@@ -100,6 +100,10 @@ Critical Violation Closures
 Recommend hosting mandatory pest preventions workshops specifically zip codes like 10013 and 10003 in lower Manhattan. These workshops would review food storage, waste disposal, and cleaning routines to ensure the Restaurants follow best practices to prevent pest issues. Additionally, within these areas the DOH should provide funding for sanitation supplies which would help include cleaning chemicals, proper trash containers, and pest traps to help businesses maintain compliance with health code more consistently. Finally, based on timeline analysis, there were seasonal spikes in critical violations during winter monthds. To address this, we recommend increasing inspecting frequency during those high-risk periods.
 
 
+## Tools and Technologies
+Tableau and Excel
+
+# Limitations and Next Steps
 
 
 
